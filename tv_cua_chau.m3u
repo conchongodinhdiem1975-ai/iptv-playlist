@@ -1,17 +1,2 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/vn/vtv.vn.xml"
-
-#EXTINF:-1 tvg-id="cn-vn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg" group-title="Hoạt Hình VN VIP",Cartoon Network (Đang dò tìm luồng...)
-http://sample.vodobox.net/skate_phantom_flex_4k/skate_phantom_flex_4k.m3u8
-
-#EXTINF:-1 tvg-id="cartoon_network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/200px-Cartoon_Network_2010_logo.svg.png" group-title="📺 Hoạt Hình (Tự Động Fix Link)",Cartoon Network HD (US) (Bản Gốc)
-http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
-
-#EXTINF:-1 tvg-id="nickelodeon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Nickelodeon_2009_logo.svg/200px-Nickelodeon_2009_logo.svg.png" group-title="📺 Hoạt Hình (Tự Động Fix Link)",Nickelodeon HD (Bản Gốc)
-http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
-
-#EXTINF:-1 tvg-id="disney" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Disney_Channel_logo_2014.svg" group-title="📺 Hoạt Hình (Tự Động Fix Link)",Disney Channel HD (Bản Gốc)
-http://151.80.18.177:86/Disney_Channel_HD/index.m3u8
-
-#EXTINF:-1 tvg-id="vtv3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/VTV3_logo_2013.png" group-title="Truyền Hình VN",VTV3 HD (Bản Gốc)
-https://aegis-cloudfront-1.tubi.video/0b16cabe-a8fd-4d91-99e5-3efb7aa740cc/playlist.m3u8
+#EXTM3U
 
